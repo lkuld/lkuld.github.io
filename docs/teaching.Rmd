@@ -7,10 +7,46 @@ output:
 
 <br>
 
-For current classes, see the corresponding Moodle groups.
+For current courese material, see the corresponding Moodle groups.
 
+_Material für aktuelle Klassen ist in den jeweiligen Moodlegruppen zu finden._
+
+<br>
+
+### Current & past classes
 
 <br>
 
 
-Material für aktuelle Klassen ist in den jeweiligen Moodlegruppen zu finden.
+**TU Dortmund**
+
+ - Spatial Economics (lecture, BSc), Faculty of Economics & School of Spatial Planning, 2020/21
+ - Spatial economics in R (tutorial, BSc), Faculty of Economics, 2020/21
+ - Empirical spatial economics (seminar, BSc), School of Spatial Planning, 2020/21
+ 
+ - Globalisation (seminar, MSc), Faculty of Economics, 2020
+ 
+ - Economic Instruments for Regional Development Planning (lecture, MSc), School of Spatial Planning, 2020
+ 
+ - Globalisation (group project, MSc), School of Spatial Planning, 2020
+ 
+ - Spatial Economics (lecture, BSc), Faculty of Economics & School of Spatial Planning, 2019/20
+ 
+ - Local factors and media coverage of right-wing attacks on German asylum centres (group project, 8h of meetings per week, BSc), School of Spatial Planning, 2018/19 (whole year)
+ - The location decision of impressionist painters  (group project, 8h of meetings per week, BSc), School of Spatial Planning, 2017/18 (whole year)
+ - Supervision of BSc and MSc dissertations,  Faculty of Economics & School of Spatial Planning, 2017-2021
+
+<br>
+
+**Trinity College Dublin**
+
+- Mathematics & Statistics 2 (tutorial, BSc), Department of Economics, 2015/16
+
+- Microeconomics (tutorial, BSc), Department of Economics, 2014/15
+
+- Mathematics & Statistics (tutorial, BSc), Department of Economics, 2013/14
+
+
+**University of Mannheim**
+
+- Analysis II, Department of Mathematics, 2010
