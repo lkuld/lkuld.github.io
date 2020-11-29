@@ -1,1 +1,13 @@
-theme: jekyll-theme-minimal
+name: "Lukas Kuld"
+navbar:
+  title: "HOME"
+  left:
+    - text: "First Observations"
+      href: first_observations.html
+    - text: "Basic Workflow"
+      href: basic_workflow.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
