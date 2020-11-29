@@ -8,7 +8,8 @@ output:
 <br>
 
 ### Employment
-
+   <br>
+   
 <style>
   .col2 {
     columns: 2 200px;         /* number of columns and width in pixels*/
@@ -35,6 +36,7 @@ Department of Economics
 
 
 ### Education
+   <br>
 
 <div class="col2">
 **Trinity College Dublin**
@@ -89,4 +91,83 @@ Department of Economics
   - Mannheim, Germany
 
 </div>
+
+   <br>
+   
+### Honors & Awards
+   <br>
+
+<div class="col2">
+**Government of Ireland Postgraduate Scholarship**
+   
+   - Irish Research Council
+   
+   <br>
+   
+   - 2014-2017
+  
+</div>
+
+<div class="col2">
+**Department Scholarship**
+   
+   - Department of Economics, Trinity College Dublin
+   
+   <br>
+   
+   - 2013-2017
+  
+</div>
+
+ <div class="col2">
+**ENSAE-Mannheim double degree scholarship**
+   
+   - Franco-German University (UFA-DFH)
+   
+   <br>
+   
+   - 2010 - 2013
+  
+</div>
+
+   <br>
+   
+### Computer Skills & Languages
+   <br>
+
+  - Statistics: R (fluent), working knowledge of Stata, SAS, Matlab, Python
+  
+  - Languages: English (fluent), French (proficient), German (native)
+  
+     <br>
+     
+### Conference presentations 
+   <br>
+
+  - PUCK Bilbao, 2014; EWACE Vienna, 2015; ACEI Valladolid, 2016; RGS Dortmund, 2017; JME Le
+Mans, 2017; EEA-ESEM Cologne 2018, EWACE Copenhagen 2019
+
+
+   <br>
+   
+### References 
+   <br>
+
+- Christiane Hellmanzik, Professor of Urban, Regional and International Economics
+
+  Technical University of Dortmund, Germany
+  
+
+- John O’Hagan, Professor of Economics, Emeritus
+
+  Department of Economics, Trinity College, Ireland
+  
+
+- Carol Newman, Professor in Economics
+
+  Department of Economics, Trinity College, Ireland
+  
+
+
+
 

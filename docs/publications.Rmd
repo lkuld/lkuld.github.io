@@ -2,3 +2,28 @@
 title: "Publications"
 output: html_document
 ---
+
+<br>
+
+### Peer-reviewed journal articles
+
+- No place like home: Geography and culture in the dissemination of economic research articles,
+_Empirical Economics_ (2020), with Christiane Hellmanzik
+
+
+- Rise of multi-authored papers in economics: Demise of the ‘lone star’ and why?, _Scientometrics_
+(2018), with John O’Hagan
+
+### Book chapters
+
+- Multi-authored journal articles in economics: Why the spiralling upward trend? In: Sebastian
+Galiani, Ugo Panizza (eds.), Publishing and Measuring Success in Economics, CEPR Press 2020,
+with John O’Hagan
+
+### Blog posts
+
+- http://voxeu.org/article/growth-multi-authored-journal-articles-economics
+
+- https://blogs.lse.ac.uk/impactofsocialsciences/2018/04/04/the-proportion-of-co-authored-research-articles-has-risen-markedly-in-recent-decades/
+
+
