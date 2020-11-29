@@ -1,0 +1,92 @@
+---
+pagetitle: CV
+output:
+  html_document:
+    fig_width: 1
+---
+
+<br>
+
+### Employment
+
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+  }
+</style>
+ 
+ 
+
+<div class="col2">
+**TU Dortmund**
+
+ - Postdoctoral Researcher, Chair of Urban, Regional, and International Economics,
+Department of Economics
+
+<br>
+
+  - Since 2017
+  -  Dortmund, Germany
+</div>
+
+<br>
+
+
+### Education
+
+<div class="col2">
+**Trinity College Dublin**
+
+ - Ph.D. Economics
+ - Dissertation Topic: “Research collaboration and dissemination in economics”
+  - Advisor: John O’Hagan
+  - Committee: Christian Fons-Rosen, Carol Newman
+  
+<br>
+
+  - 2013 - 2018
+  - Dublin, Ireland
+  
+  
+<br>
+<br>
+<br>
+ </div>
+ 
+<br>
+
+<div class="col2">
+
+**ENSAE Paris**
+
+  - Statistician-Economist (∼ M.Sc. grande école program)
+
+
+<br>
+
+
+  - 2013 - 2018
+  - Paris, France
+
+</div>
+
+<br>
+<div class="col2">
+
+**University of Mannheim**
+
+  - M.Sc. Economics
+  - B.Sc. Economics (Minor in Mathematics)
+
+<br>
+
+<br>
+
+  - 2011 - 2013
+  - 2008 - 2011
+  - Mannheim, Germany
+
+</div>
+

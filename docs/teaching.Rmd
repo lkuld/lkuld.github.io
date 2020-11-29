@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+output:
+  html_document:
+    fig_width: 1
+---
+
+<br>
+
+For current classes, see the relvant Moodle groups.
+
+
+<br>
+
+
+Material für aktuelle Klassen ist auf den jeweiligen Moodlegruppen zu finden.
