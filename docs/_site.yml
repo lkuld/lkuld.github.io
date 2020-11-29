@@ -9,7 +9,7 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "Data"
-      href: data.html
+      href: Data.html
     - text: "CV"
       href: cv.html
 output_dir: "."

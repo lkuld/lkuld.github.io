@@ -135,11 +135,14 @@ Department of Economics
 ### Computer Skills & Languages
    <br>
 
-  - Statistics: R (fluent), working knowledge of Stata, SAS, Matlab, Python
+**Statistics** 
+ - R (fluent), working knowledge of Stata, SAS, Matlab, Python
   
-  - Languages: English (fluent), French (proficient), German (native)
-  
-     <br>
+**Languages** 
+  - English (fluent), French (proficient), German (native)
+
+
+<br>
      
 ### Conference presentations 
    <br>
