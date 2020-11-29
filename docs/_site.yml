@@ -1,11 +1,15 @@
 name: "Lukas Kuld"
 navbar:
-  title: "HOME"
+  title: "Intro"
   left:
-    - text: "First Observations"
-      href: first_observations.html
-    - text: "Basic Workflow"
-      href: basic_workflow.html
+    - text: "Research projects"
+      href: research_projects.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Data"
+      href: data.html
+    - text: "CV"
+      href: cv.html
 output_dir: "."
 output:
   html_document:
