@@ -3,4 +3,4 @@ title: "Data"
 output: html_document
 ---
 
-You will find some data sets here.
+You can find some data on German authors at https://www.tcd.ie/triss/assets/PDFs/wps/TRiSS-WPS-03-2019-Data.csv. However, these data are neither complete nor clean and I will publish an updated and clean version here soon. More to come.

@@ -2,3 +2,9 @@
 title: "Research projects"
 output: html_document
 ---
+
+<br>
+
+[The University as a Local Idea Space: Benefits from research links between colleagues](files/UniIdeaSpace.pdf)
+
+Recent research observes declining or no returns from the quality of local colleagues on a researcher's productivity but positive spill-overs between co-authors. This paper tests benefits from research links between department colleagues below the level of co-authorship. Based on data from the CVs of around 1,000 highly-cited economists, the success of a research article is linked to the personal and thematic connections of its authors. For these authors, non-routine articles receive around 30 percent more citations, if recent university colleagues are thematically connected. The number of (star) colleagues without a research link has no direct effect on individual papers, nor have future colleagues after the publication date. The timing of the impact, the type of affected research, and zero estimates for other personal links are used to show the causality of benefits from local, thematically connected colleagues.  
