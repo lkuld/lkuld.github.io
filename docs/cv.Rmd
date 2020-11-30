@@ -4,6 +4,9 @@ output:
   html_document:
     fig_width: 1
 ---
+<br>
+
+[Download CV as pdf.](files/CV_KULD_Lukas.pdf)
 
 <br>
 
