@@ -7,7 +7,7 @@ output:
 
 <br>
 
-For current courese material, see the corresponding Moodle groups.
+For current course material, see the corresponding Moodle groups.
 
 _Material für aktuelle Klassen ist in den jeweiligen Moodlegruppen zu finden._
 
