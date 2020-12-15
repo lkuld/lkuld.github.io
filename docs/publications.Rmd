@@ -1,6 +1,8 @@
 ---
 title: "Publications"
-output: html_document
+output:
+  html_document:
+    fig_width: 1
 ---
 
 <br>

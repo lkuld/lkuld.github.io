@@ -1,0 +1,33 @@
+---
+title: "R & LaTex Ressources"
+output:
+  html_document:
+    fig_width: 1
+---
+
+<br>
+
+### R Tutorien
+
+Das Paket EmpStand auf https://github.com/lkuld/EmpStand/ enthält deutschsprachige Tutorien für einen Kurs in räumlicher Statistik (WS 2020/21 TU Dortmund), basierend auf der Umgebung `learnr`. Installation und Ausführung wie folgt (benötigt `devtools` und `learnr`):
+
+```{r eval=FALSE}
+
+devtools::install_github("lkuld/EmpStand")
+learnr::available_tutorials("EmpStand")
+learnr::run_tutorial("Graph", package = "EmpStand")
+
+```
+
+
+
+
+
+### LaTex
+
+A simple LaTex document for a presentation using tikz for indifference curves annd budget lines: [InBG.tex](files/InBG.tex).
+
+Creates the following PDF: [InBG.pdf](files/InBG.pdf).
+
+
+

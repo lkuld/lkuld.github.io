@@ -11,7 +11,7 @@
 
 
 
-<title>Research projects</title>
+<title>R &amp; LaTex Ressources</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -312,14 +312,24 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Research projects</h1>
+<h1 class="title toc-ignore">R &amp; LaTex Ressources</h1>
 
 </div>
 
 
 <p><br></p>
-<p><a href="files/UniIdeaSpace.pdf">The University as a Local Idea Space: Benefits from research links between colleagues</a></p>
-<p>Recent research observes declining or no returns from the quality of local colleagues on a researcher’s productivity but positive spill-overs between co-authors. This paper tests benefits from research links between department colleagues below the level of co-authorship. Based on data from the CVs of around 1,000 highly-cited economists, the success of a research article is linked to the personal and thematic connections of its authors. For these authors, non-routine articles receive around 30 percent more citations, if recent university colleagues are thematically connected. The number of (star) colleagues without a research link has no direct effect on individual papers, nor have future colleagues after the publication date. The timing of the impact, the type of affected research, and zero estimates for other personal links are used to show the causality of benefits from local, thematically connected colleagues.</p>
+<div id="r-tutorien" class="section level3">
+<h3>R Tutorien</h3>
+<p>Das Paket EmpStand auf <a href="https://github.com/lkuld/EmpStand/" class="uri">https://github.com/lkuld/EmpStand/</a> enthält deutschsprachige Tutorien für einen Kurs in räumlicher Statistik (WS 2020/21 TU Dortmund), basierend auf der Umgebung <code>learnr</code>. Installation und Ausführung wie folgt (benötigt <code>devtools</code> und <code>learnr</code>):</p>
+<pre class="r"><code>devtools::install_github(&quot;lkuld/EmpStand&quot;)
+learnr::available_tutorials(&quot;EmpStand&quot;)
+learnr::run_tutorial(&quot;Graph&quot;, package = &quot;EmpStand&quot;)</code></pre>
+</div>
+<div id="latex" class="section level3">
+<h3>LaTex</h3>
+<p>A simple LaTex document for a presentation using tikz for indifference curves annd budget lines: <a href="files/InBG.tex">InBG.tex</a>.</p>
+<p>Creates the following PDF: <a href="files/InBG.pdf">InBG.pdf</a>.</p>
+</div>
 
 
 

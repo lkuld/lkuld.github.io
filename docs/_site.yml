@@ -12,6 +12,8 @@ navbar:
       href: Data.html
     - text: "CV"
       href: cv.html
+    - text: "R & LaTex Ressources"
+      href: ressources.html
 output_dir: "."
 output:
   html_document:
