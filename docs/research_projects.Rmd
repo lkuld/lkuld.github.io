@@ -10,3 +10,62 @@ output:
 [The University as a Local Idea Space: Benefits from research links between colleagues](files/UniIdeaSpace.pdf)
 
 Recent research observes declining or no returns from the quality of local colleagues on a researcher's productivity but positive spill-overs between co-authors. This paper tests benefits from research links between department colleagues below the level of co-authorship. Based on data from the CVs of around 1,000 highly-cited economists, the success of a research article is linked to the personal and thematic connections of its authors. For these authors, non-routine articles receive around 30 percent more citations, if recent university colleagues are thematically connected. The number of (star) colleagues without a research link has no direct effect on individual papers, nor have future colleagues after the publication date. The timing of the impact, the type of affected research, and zero estimates for other personal links are used to show the causality of benefits from local, thematically connected colleagues.  
+
+
+<br>
+
+### The origins of urban clusters in German literature, with Sara Mitchell
+
+Large cities and clusters of workers are widely understood to be key factors in creative
+production, but how these creative clusters form is not well understood. In this paper, we trace
+their empirical beginnings in the location choices made by German literary writers. We study
+yearly data on 149 German writers and born between 1700 and 1899. The unique historical
+setting allows us to determine how the mobility, location choice, and clustering patterns of writers
+were influenced by major shifts in the political situation.
+
+This empirical setting includes the dissolution of territorial states and imperial circles and creation
+of German states in 1806, the establishment of the German Confederation after the fall of
+Napoleon in 1815, the failed revolution of 1848, the end of the German Confederation and rise of
+the German Empire in 1871, and the mass emigration of authors after the Nazis came to power in
+1933. The consolidation of German territories was paralleled by the centralisation of politically and
+economically important cities. At the same time, literary production was characterised by a
+transition from a patronage system to a competitive market-based system.
+
+We observe that, in the early periods, authors are geographically disparate, migration distances
+are very short, and early clusters were very small and short-lived. The largest clusters were not in
+economically or politically important locations but were instead facilitated by the university in
+Gottingen and the duke in Weimar. As political territories consolidated over the 19th century,
+authors also began clustering at greater intensities. Migration occurred less frequently, but
+authors migrated over greater distances and, increasingly, to large cities.
+
+After uni cation in 1871, Berlin became the dominant literary cluster, with almost half of the author
+sample living there. Unlike earlier clusters, Berlin was a relatively stable cluster with little outward
+migration. Before 1933, we also observe little migration across the then German borders. The
+forced emigration in Nazi Germany changed this dramatically, with almost 40% of authors living
+abroad by the end of World War II.
+
+We argue that the political shifts changed the incentives for authors to cluster. Travel was limited
+under the system of highly fragmented territories, and the political consolidation enabled
+migration over greater distances. This is a necessary but not sufficient condition for the formation
+of large literary clusters. Literary clusters could not develop under the patronage system because
+authors competed for a limited number of positions per city. The dissolution of the territorial states
+and imperial circles in 1806 changed patronage landscape. This, along with technological
+advances in book production and increasing demand for literature, led to the development of a
+modern market-based system over the 19th century and the decline in spatial competition. With
+political and economic power being consolidated in increasingly fewer cities, agglomeration
+forces of the larger cities became stronger. The net gains from agglomeration eventually led to the
+development of a major literary cluster.
+
+
+<br>
+
+### Making the List: Gender, Ethnicity, and Location in American Literary Production, with Sara Mitchell
+
+A prevalent narrative about 19th and early 20th century American literature pits the industrious female writer of commercial entertainment against the male genius author who writes for his peers, not the public. Recent research on American bestselling lists is consistent with this narrative.  Here, we provide a more complete picture by comparing diverse data sources to provide new insights into who ‘makes the list’.
+
+In this paper, we look at two hundred years of labor market participation in American literature across gender, ethnicity, and socioeconomic background. We use a novel data set that combines microdata from decennial American census counts starting in 1850 (100% samples until 1940) with yearly biographical information on 473 American authors in the Encyclopedia Britannica. We also track these authors’ representation in lists expressing literary, public or commercial success including Kindlers Literaturlexikon, Publisher’s Weekly bestselling lists, Goodreads, and Wikipedia.
+This allows us to trace and question common narratives about the literary contributions and under-representation of women and ethnic minorities. We show how geography and location choices reinforce and/or help to overcome barriers for disadvantaged groups. In particular, we investigate the role of large cities as gateways for minorities, women, and internal and external migrants to literary participation. We also study how location choices and migration along ethnic networks may reinforce group outcomes. By including a large range of data sources and metrics, we also show how methodological choices can affect estimates on representation in the arts. 
+
+We observe that, at the beginning of the Twentieth century, female authors are over-represented in bestselling lists compared to the general population of authors in the census but underrepresented in modern-day canons of literary works. Later, and similar to other socioeconomic measures, we see a marked dip in bestselling books by women during the mid-Twentieth Century. The same decrease is not observed for commercially less successful and for critically acclaimed publications. This might indicate an increasingly difficult market for female writers but also represents a convergence of gender roles for commercially and critically successful publications. American writers are overwhelmingly, and until WWI almost exclusively, white. Literacy rates and location alone cannot explain differences in outcomes across ethnic groups.
+
+We note that our understanding of literary participation shifts substantially when looking at different data sources. There has been a recent re-evaluation of literary works by female and minority writers, which questions the reliability of inclusion in literary canons as a measure of artistic quality. Using contemporaneous bestselling lists and census information allows us to provide a more representative evaluation of trends in literary participation and to comment on the inclusiveness of modern-day literary canons.

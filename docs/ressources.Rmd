@@ -20,12 +20,12 @@ learnr::run_tutorial("Graph", package = "EmpStand")
 ```
 
 
-
+<br>
 
 
 ### LaTex
 
-A simple LaTex document for a presentation using tikz for indifference curves annd budget lines: [InBG.tex](files/InBG.tex).
+A simple tex document for a presentation using tikz for indifference curves and budget lines: [InBG.tex](files/InBG.tex).
 
 Creates the following PDF: [InBG.pdf](files/InBG.pdf).
 
