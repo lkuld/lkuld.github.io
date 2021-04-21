@@ -21,7 +21,7 @@ learnr::run_tutorial("Graph", package = "EmpStand")
 
 
 <br>
-
+Das Paket HumanKapital auf https://github.com/lkuld/HumanKapital/ enthält Unterichtsmaterial für den entsprechnden Kurs im Sommersemester 2021.
 
 ### LaTex
 
