@@ -9,11 +9,11 @@ output:
 
 ### Peer-reviewed journal articles
 
-- No place like home: Geography and culture in the dissemination of economic research articles,
+- [No place like home: Geography and culture in the dissemination of economic research articles](files/NoPlaceLikeHomeAAM.pdf),
 _Empirical Economics_ (2020), with Christiane Hellmanzik
 
 
-- Rise of multi-authored papers in economics: Demise of the ‘lone star’ and why?, _Scientometrics_
+- [Rise of multi-authored papers in economics: Demise of the ‘lone star’ and why?](files/CoAuthorRiseAAM.pdf), _Scientometrics_
 (2018), with John O’Hagan
 
 ### Book chapters
