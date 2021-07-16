@@ -5,6 +5,11 @@ output:
     fig_width: 1
 ---
 
+
+[Manhattan Transfer: Productivity effects of agglomeration in American authorship](files/ManhattanTransfer.pdf)
+
+We investigate quantity and quality effects of agglomeration in the careers of American authors. We combine novel yearly data on publications and work location of 471 eminent authors with US Census data to provide a complete picture of industry concentration and agglomeration economies from 1850-2000. We find that, on aggregate, an author has 40% higher odds of publishing while living in New York City. The effect size increases with industry concentration but declines with industry maturity and technological progress after WWII. Taking relocation of working-age authors to New York City as an event study, we see a significant immediate increase in publications after arriving. In comparison, the penalty of moving away from the city is mild. Last, works published while an author lived in New York City were more likely to achieve critical acclaim and more likely to have lasting influence in terms of present-day popularity.
+
 <br>
 
 [The University as a Local Idea Space: Benefits from research links between colleagues](files/UniIdeaSpace.pdf)
