@@ -6,13 +6,15 @@ output:
 ---
 
 
-[Manhattan Transfer: Productivity effects of agglomeration in American authorship](files/ManhattanTransfer.pdf)
+### Manhattan Transfer: Productivity effects of agglomeration in American authorship
+[PDF](files/ManhattanTransfer.pdf)
 
 We investigate quantity and quality effects of agglomeration in the careers of American authors. We combine novel yearly data on publications and work location of 471 eminent authors with US Census data to provide a complete picture of industry concentration and agglomeration economies from 1850-2000. We find that, on aggregate, an author has 40% higher odds of publishing while living in New York City. The effect size increases with industry concentration but declines with industry maturity and technological progress after WWII. Taking relocation of working-age authors to New York City as an event study, we see a significant immediate increase in publications after arriving. In comparison, the penalty of moving away from the city is mild. Last, works published while an author lived in New York City were more likely to achieve critical acclaim and more likely to have lasting influence in terms of present-day popularity.
 
 <br>
 
-[The University as a Local Idea Space: Benefits from research links between colleagues](files/UniIdeaSpace.pdf)
+### The University as a Local Idea Space: Benefits from research links between colleagues
+[PDF](files/UniIdeaSpace.pdf)
 
 Recent research observes declining or no returns from the quality of local colleagues on a researcher's productivity but positive spill-overs between co-authors. This paper tests benefits from research links between department colleagues below the level of co-authorship. Based on data from the CVs of around 1,000 highly-cited economists, the success of a research article is linked to the personal and thematic connections of its authors. For these authors, non-routine articles receive around 30 percent more citations, if recent university colleagues are thematically connected. The number of (star) colleagues without a research link has no direct effect on individual papers, nor have future colleagues after the publication date. The timing of the impact, the type of affected research, and zero estimates for other personal links are used to show the causality of benefits from local, thematically connected colleagues.  
 
