@@ -21,9 +21,22 @@ output:
   }
 </style>
  
- 
+<div class="col2">
+**University of Limerick**
+
+  - Lecturer, Department of Economics, Kemmy Business School  
+  
+  <br>
+  
+  - Since 2022
+  - Limerick, Ireland
+</div>
+
+
 
 <div class="col2">
+
+
 **TU Dortmund**
 
  - Postdoctoral Researcher, Chair of Urban, Regional, and International Economics,
@@ -31,7 +44,7 @@ Department of Economics
 
 <br>
 
-  - Since 2017
+  - 2017-2021
   -  Dortmund, Germany
 </div>
 
@@ -71,6 +84,7 @@ Department of Economics
 
 <br>
 
+<br>
 
   - 2010 - 2013
   - Paris, France
@@ -150,7 +164,7 @@ Department of Economics
 ### Conference presentations 
    <br>
 
-  - PUCK Bilbao (2014), EWACE Vienna (2015), ACEI Valladolid (2016), RGS Dortmund (2017), JME Le Mans (2017), EEA-ESEM Cologne (2018), EWACE Copenhagen (2019)
+  - PUCK Bilbao (2014), EWACE Vienna (2015), ACEI Valladolid (2016), RGS Dortmund (2017), JME Le Mans (2017), EEA-ESEM Cologne (2018), EWACE Copenhagen (2019), ACEI Lille (2021)
 
 
    <br>

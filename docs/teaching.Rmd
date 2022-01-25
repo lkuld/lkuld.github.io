@@ -7,11 +7,8 @@ output:
 
 <br>
 
-For current course material, see the corresponding Moodle groups.
+For current course material, see SULIS.
 
-_Material für aktuelle Klassen ist in den jeweiligen Moodlegruppen zu finden._
-
-Für Tutorien zu dem Kurs Humankapital im Sommersemester 2021 an der TU Dortmund, siehe https://github.com/lkuld/HumanKapital/.
 
 <br>
 
@@ -20,19 +17,25 @@ Für Tutorien zu dem Kurs Humankapital im Sommersemester 2021 an der TU Dortmund
 <br>
 
 
+**University of Limerick**
+
+  - Public Finance & Regulation (lecture, MSc), 2022
+  
+  - Dissertation preparation workshops (MSc), 2022 
+
 **TU Dortmund**
 
- - Spatial Economics (lecture, BSc), Faculty of Economics & School of Spatial Planning, 2020/21
- - Spatial economics in R (tutorial, BSc), Faculty of Economics, 2020/21
- - Empirical spatial economics (seminar, BSc), School of Spatial Planning, 2020/21
+ - Spatial Economics (lecture, BSc), Faculty of Economics & School of Spatial Planning, 2019/20, 2020/21, 2021/22
+ - Spatial economics in R (tutorial, BSc), Faculty of Economics, 2020/21, 2021/22
+ - Empirical spatial economics (seminar, BSc), School of Spatial Planning, 2020/21, 2021/22
+ 
+ - Human capital (tutorials, BSc), Faculty of Economics, 2021
  
  - Globalisation (seminar, MSc), Faculty of Economics, 2020
  
- - Economic Instruments for Regional Development Planning (lecture, MSc), School of Spatial Planning, 2020
+ - Economic Instruments for Regional Development Planning (lecture, MSc), School of Spatial Planning, 2020, 2021
  
  - Globalisation (group project, MSc), School of Spatial Planning, 2020
- 
- - Spatial Economics (lecture, BSc), Faculty of Economics & School of Spatial Planning, 2019/20
  
  - Local factors and media coverage of right-wing attacks on German asylum centres (group project, 8h of meetings per week, BSc), School of Spatial Planning, 2018/19 (full year course)
  - The location decision of impressionist painters  (group project, 8h of meetings per week, BSc), School of Spatial Planning, 2017/18 (full year course)
