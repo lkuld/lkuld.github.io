@@ -9,6 +9,10 @@ output:
 
 ### Peer-reviewed journal articles
 
+- [Market structure and creative cluster formation: The origins of urban clusters in German literature, 1700-1932](MarketStructureAAM.pdf),
+_European Review of Economic History_ (2023), with Sara Mitchell
+
+
 - [No place like home: Geography and culture in the dissemination of economic research articles](files/NoPlaceLikeHomeAAM.pdf),
 _Empirical Economics_ (2020), with Christiane Hellmanzik
 
