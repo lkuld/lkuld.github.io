@@ -1,5 +1,5 @@
 ---
-title: "R & LaTex Ressources"
+title: "R & LaTex resources"
 output:
   html_document:
     fig_width: 1
@@ -21,7 +21,7 @@ learnr::run_tutorial("Graph", package = "EmpStand")
 
 
 <br>
-Das Paket HumanKapital auf https://github.com/lkuld/HumanKapital/ enthält Unterichtsmaterial für den entsprechnden Kurs im Sommersemester 2021.
+Das Paket HumanKapital auf https://github.com/lkuld/HumanKapital/ enthält Unterichtsmaterial für den entsprechenden Kurs im Sommersemester 2021.
 
 ### LaTex
 

@@ -11,10 +11,10 @@
 
 
 
-<title>R &amp; LaTex Ressources</title>
+<title>R &amp; LaTex resources</title>
 
-<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.21/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -60,6 +60,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -80,6 +81,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -137,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -170,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -179,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -232,7 +233,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -257,7 +258,7 @@ $(document).ready(function () {
   <a href="cv.html">CV</a>
 </li>
 <li>
-  <a href="ressources.html">R &amp; LaTex Ressources</a>
+  <a href="resources.html">R &amp; LaTex resources</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -271,7 +272,7 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">R &amp; LaTex Ressources</h1>
+<h1 class="title toc-ignore">R &amp; LaTex resources</h1>
 
 </div>
 
@@ -279,15 +280,25 @@ $(document).ready(function () {
 <p><br></p>
 <div id="r-tutorien" class="section level3">
 <h3>R Tutorien</h3>
-<p>Das Paket EmpStand auf <a href="https://github.com/lkuld/EmpStand/" class="uri">https://github.com/lkuld/EmpStand/</a> enthält deutschsprachige Tutorien für einen Kurs in räumlicher Statistik (WS 2020/21 TU Dortmund), basierend auf der Umgebung <code>learnr</code>. Installation und Ausführung wie folgt (benötigt <code>devtools</code> und <code>learnr</code>):</p>
+<p>Das Paket EmpStand auf <a href="https://github.com/lkuld/EmpStand/"
+class="uri">https://github.com/lkuld/EmpStand/</a> enthält
+deutschsprachige Tutorien für einen Kurs in räumlicher Statistik (WS
+2020/21 TU Dortmund), basierend auf der Umgebung <code>learnr</code>.
+Installation und Ausführung wie folgt (benötigt <code>devtools</code>
+und <code>learnr</code>):</p>
 <pre class="r"><code>devtools::install_github(&quot;lkuld/EmpStand&quot;)
 learnr::available_tutorials(&quot;EmpStand&quot;)
 learnr::run_tutorial(&quot;Graph&quot;, package = &quot;EmpStand&quot;)</code></pre>
-<p><br> Das Paket HumanKapital auf <a href="https://github.com/lkuld/HumanKapital/" class="uri">https://github.com/lkuld/HumanKapital/</a> enthält Unterichtsmaterial für den entsprechnden Kurs im Sommersemester 2021.</p>
+<p><br> Das Paket HumanKapital auf <a
+href="https://github.com/lkuld/HumanKapital/"
+class="uri">https://github.com/lkuld/HumanKapital/</a> enthält
+Unterichtsmaterial für den entsprechenden Kurs im Sommersemester
+2021.</p>
 </div>
 <div id="latex" class="section level3">
 <h3>LaTex</h3>
-<p>A simple tex document for a presentation using tikz for indifference curves and budget lines: <a href="files/InBG.tex">InBG.tex</a>.</p>
+<p>A simple tex document for a presentation using tikz for indifference
+curves and budget lines: <a href="files/InBG.tex">InBG.tex</a>.</p>
 <p>Creates the following PDF: <a href="files/InBG.pdf">InBG.pdf</a>.</p>
 </div>
 
