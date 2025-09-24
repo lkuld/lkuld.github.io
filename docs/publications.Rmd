@@ -9,6 +9,9 @@ output:
 
 ### Peer-reviewed journal articles
 
+- [Manhattan Transfer: Heterogeneous productivity effects of agglomeration in American authorship],
+_Regional Science and Urban Economics_ (2025), with Sara Mitchell and Christiane Hellmanzik. 
+
 - [Market structure and creative cluster formation: The origins of urban clusters in German literature, 1700-1932](MarketStructureAAM.pdf),
 _European Review of Economic History_ (2023), with Sara Mitchell. Full data and code: https://github.com/lkuld/KuldMitchellEREH
 
