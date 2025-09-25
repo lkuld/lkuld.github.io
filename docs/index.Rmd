@@ -1,15 +1,16 @@
 ---
 title: "Lukas Kuld"
-author:  "Economics of science and arts"
+author:  "Economics of innovation in industry, science, and arts"
 output:
   html_document:
     fig_width: 1
 ---
 
 ----
-Hi, I am a lecturer in the Department of Economics, KBS, University of Limerick. Currently, I serve as the course director for our MSc in Economics and Policy Analysis.
-Please send me a mail, if you are interested or have any questions about the programme. 
+I am a Lecturer in the Department of Economics at the Kemmy Business School, University of Limerick, where I serve as Course Director for the MSc in Economics and Policy Analysis. I am happy to advise prospective applicants on the programme’s structure, entry routes, and study experience at UL.
 
-You can reach me at lukas.kuld@ul.ie.
+My research sits at the intersection of urban economics, labour economics, and economic history. Much of my current work examines the economics of science and the arts, with particular attention to innovation processes, peer and place effects, and discrimination in labour markets. I have also collaborated on projects addressing discrimination and accountability affecting the rural poor.
 
-My research interests include urban economics, labour economics, and economic history. Most of my current projects fall into the economics of science and arts, where I am particularly interested in innovation processes and discrimination in the labour market. Beyond my core research, I have collaborated on discrimination and accountability in the labour market for the rural poor. I am always happy to chat about research ideas or anything related to studying in Limerick.
+I welcome enquiries about research ideas, supervision aligned with these areas, and studying in Limerick.
+
+Email: lukas.kuld@ul.ie
