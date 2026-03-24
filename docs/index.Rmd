@@ -1,16 +1,19 @@
 ---
 title: "Lukas Kuld"
-author:  "Economics of innovation in industry, science, and arts"
+author: "Economics of innovation in industry, science, and arts"
 output:
   html_document:
     fig_width: 1
 ---
 
-----
+---
+
 I am an Assistant Professor in Economics at the Kemmy Business School, University of Limerick, where I serve as Course Director for the MSc in Economics and Policy Analysis.
 
 My research examines how knowledge, creativity, and innovation are shaped by geography and social networks. Using historical and administrative microdata, I study the spatial clustering of creative workers, peer effects in scientific and artistic production, and how large cities shape career outcomes for women and minority groups. I also work on firm-level R&D and innovation in a European context, and on accountability in public employment programmes in rural India.
 
 I welcome enquiries about research collaboration, PhD supervision, and the MSc in Economics and Policy Analysis at UL.
 
-Email: lukas.kuld@ul.ie
+**Email:** [lukas.kuld@ul.ie](mailto:lukas.kuld@ul.ie)  
+**UL:** [pure.ul.ie/en/persons/lukas-kuld](https://pure.ul.ie/en/persons/lukas-kuld)  
+**[Google Scholar](https://scholar.google.com/citations?user=KmYwD54AAAAJ)**
