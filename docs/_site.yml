@@ -1,6 +1,6 @@
 name: "Lukas Kuld"
 navbar:
-  title: "Intro"
+  title: "Home"
   left:
     - text: "Research projects"
       href: research_projects.html

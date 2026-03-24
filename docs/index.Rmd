@@ -7,10 +7,10 @@ output:
 ---
 
 ----
-I am an Assistant Professor in the Department of Economics at the Kemmy Business School, University of Limerick, where I serve as Course Director for the MSc in Economics and Policy Analysis. I am happy to advise prospective applicants on the programme’s structure, entry routes, and study experience at UL.
+I am an Assistant Professor in Economics at the Kemmy Business School, University of Limerick, where I serve as Course Director for the MSc in Economics and Policy Analysis.
 
-My research sits at the intersection of urban economics, labour economics, and economic history. Much of my current work examines the economics of science and the arts, with particular attention to innovation processes, peer and place effects, and discrimination in labour markets. I have also collaborated on projects addressing discrimination and accountability affecting the rural poor.
+My research examines how knowledge, creativity, and innovation are shaped by geography and social networks. Using historical and administrative microdata, I study the spatial clustering of creative workers, peer effects in scientific and artistic production, and how large cities shape career outcomes for women and minority groups. I also work on firm-level R&D and innovation in a European context, and on accountability in public employment programmes in rural India.
 
-I welcome enquiries about research ideas, supervision aligned with these areas, and studying in Limerick.
+I welcome enquiries about research collaboration, PhD supervision, and the MSc in Economics and Policy Analysis at UL.
 
 Email: lukas.kuld@ul.ie
