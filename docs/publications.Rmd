@@ -5,39 +5,20 @@ output:
     fig_width: 1
 ---
 
-<br>
-
 ### Peer-reviewed journal articles
 
-- [Literary networks: Agglomeration, peers, and productivity](files/LiteraryNetworksAAM.pdf),
-_Journal of Cultural Economics_ (2026), with Sara Mitchell. Full data and code available at https://github.com/lkuld/Mitchell-Kuld-Literary-Networks-JCE
-
-- [Accountability in the delivery of guaranteed employment through MGNREGA in rural India](files/MGNREGA_AAM.pdf),
-_Review of Development Economics_ (2026), with Tara Bedi. 
-
-- [Manhattan Transfer: Heterogeneous productivity effects of agglomeration in American authorship](files/ManhattanTransferAAM.pdf),
-_Regional Science and Urban Economics_ (2025), with Sara Mitchell and Christiane Hellmanzik. 
-
-- [Market structure and creative cluster formation: The origins of urban clusters in German literature, 1700-1932](files/MarketStructureAAM.pdf),
-_European Review of Economic History_ (2023), with Sara Mitchell. Full data and code available at https://github.com/lkuld/KuldMitchellEREH
-
-- [No place like home: Geography and culture in the dissemination of economic research articles](files/NoPlaceLikeHomeAAM.pdf),
-_Empirical Economics_ (2020), with Christiane Hellmanzik
-
-
-- [Rise of multi-authored papers in economics: Demise of the ‘lone star’ and why?](files/CoAuthorRiseAAM.pdf), _Scientometrics_
-(2018), with John O’Hagan
+- [Literary networks: Agglomeration, peers, and productivity](files/LiteraryNetworksAAM.pdf), *Journal of Cultural Economics* (2026), with Sara Mitchell. Data and code: [github.com/lkuld/Mitchell-Kuld-Literary-Networks-JCE](https://github.com/lkuld/Mitchell-Kuld-Literary-Networks-JCE)
+- [Accountability in the delivery of guaranteed employment through MGNREGA in rural India](files/MGNREGA_AAM.pdf), *Review of Development Economics* (2026), with Tara Bedi.
+- [Manhattan Transfer: Heterogeneous productivity effects of agglomeration in American authorship](files/ManhattanTransferAAM.pdf), *Regional Science and Urban Economics* (2025), with Sara Mitchell and Christiane Hellmanzik.
+- [Market structure and creative cluster formation: The origins of urban clusters in German literature, 1700-1932](files/MarketStructureAAM.pdf), *European Review of Economic History* (2023), with Sara Mitchell. Data and code: [github.com/lkuld/KuldMitchellEREH](https://github.com/lkuld/KuldMitchellEREH)
+- [No place like home: Geography and culture in the dissemination of economic research articles](files/NoPlaceLikeHomeAAM.pdf), *Empirical Economics* (2020), with Christiane Hellmanzik.
+- [Rise of multi-authored papers in economics: Demise of the 'lone star' and why?](files/CoAuthorRiseAAM.pdf), *Scientometrics* (2018), with John O'Hagan.
 
 ### Book chapters
 
-- Multi-authored journal articles in economics: Why the spiralling upward trend? In: Sebastian
-Galiani, Ugo Panizza (eds.), Publishing and Measuring Success in Economics, CEPR Press 2020,
-with John O’Hagan
+- Multi-authored journal articles in economics: Why the spiralling upward trend? In: Sebastian Galiani, Ugo Panizza (eds.), *Publishing and Measuring Success in Economics*, CEPR Press 2020, with John O'Hagan.
 
 ### Blog posts
 
-- http://voxeu.org/article/growth-multi-authored-journal-articles-economics
-
-- https://blogs.lse.ac.uk/impactofsocialsciences/2018/04/04/the-proportion-of-co-authored-research-articles-has-risen-markedly-in-recent-decades/
-
-
+- [VoxEU: Growth of multi-authored journal articles in economics](http://voxeu.org/article/growth-multi-authored-journal-articles-economics)
+- [LSE Impact Blog: The proportion of co-authored research articles has risen markedly in recent decades](https://blogs.lse.ac.uk/impactofsocialsciences/2018/04/04/the-proportion-of-co-authored-research-articles-has-risen-markedly-in-recent-decades/)

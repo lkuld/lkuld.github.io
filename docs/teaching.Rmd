@@ -5,57 +5,39 @@ output:
     fig_width: 1
 ---
 
-<br>
-
 For current course material, see Brightspace.
-
-<br>
 
 ### Current & past classes
 
-<br>
-
-
 **University of Limerick**
 
-  - Research Design and Dissertation Preparation (lecture, MSc), 2023
-  
-  - Macroeconomics (lecture, MSc), 2022
-  
-  - Quantitative Methods for Economics (lecture, BSc), 2022
-  
-  - Public Finance & Regulation (lecture, MSc), 2022
-  
-  - Dissertation preparation workshops (MSc), 2022 
+- Research Design and Policy Evaluation Tools (lecture, MSc) -- EC6082, 2022/23--present
+- Data Exploration and Analysis (lecture and lab, MSc/online) -- EC5007, 2022/23--present
+- Quantitative Methods for Economics (lecture, BSc) -- EC4023, 2022/23--present
+- The Economics of Global Challenges (lecture, MSc) -- EC6072, 2024/25--present
+- Econometrics (lecture, MSc) -- EC6112, 2025/26
+- Macroeconomic Theory (lecture, MSc) -- EC6021, 2022/23
+- Dissertation Preparation (lecture, MSc) -- EC6152, 2021/22--2022/23
+- Public Finance and Regulation (lecture, MSc) -- EC6122, 2021/22
 
 **TU Dortmund**
 
- - Spatial Economics (lecture, BSc), Faculty of Economics & School of Spatial Planning, 2019/20, 2020/21, 2021/22
- - Spatial economics in R (tutorial, BSc), Faculty of Economics, 2020/21, 2021/22
- - Empirical spatial economics (seminar, BSc), School of Spatial Planning, 2020/21, 2021/22
- 
- - Human capital (tutorials, BSc), Faculty of Economics, 2021
- 
- - Globalisation (seminar, MSc), Faculty of Economics, 2020
- 
- - Economic Instruments for Regional Development Planning (lecture, MSc), School of Spatial Planning, 2020, 2021
- 
- - Globalisation (group project, MSc), School of Spatial Planning, 2020
- 
- - Local factors and media coverage of right-wing attacks on German asylum centres (group project, 8h of meetings per week, BSc), School of Spatial Planning, 2018/19 (full year course)
- - The location decision of impressionist painters  (group project, 8h of meetings per week, BSc), School of Spatial Planning, 2017/18 (full year course)
- - Supervision of BSc and MSc dissertations,  Faculty of Economics & School of Spatial Planning, 2017-2021
-
-<br>
+- Spatial Economics (lecture, BSc), Faculty of Economics & School of Spatial Planning, 2019/20--2021/22
+- Spatial economics in R (tutorial, BSc), Faculty of Economics, 2020/21--2021/22
+- Empirical spatial economics (seminar, BSc), School of Spatial Planning, 2020/21--2021/22
+- Human capital (tutorials, BSc), Faculty of Economics, 2021
+- Globalisation (seminar, MSc), Faculty of Economics, 2020
+- Economic Instruments for Regional Development Planning (lecture, MSc), School of Spatial Planning, 2020--2021
+- Globalisation (group project, MSc), School of Spatial Planning, 2020
+- Local factors and media coverage of right-wing attacks on German asylum centres (group project, BSc), School of Spatial Planning, 2018/19
+- The location decision of impressionist painters (group project, BSc), School of Spatial Planning, 2017/18
+- Supervision of BSc and MSc dissertations, Faculty of Economics & School of Spatial Planning, 2017--2021
 
 **Trinity College Dublin**
 
 - Mathematics & Statistics 2 (tutorial, BSc), Department of Economics, 2015/16
-
 - Microeconomics (tutorial, BSc), Department of Economics, 2014/15
-
 - Mathematics & Statistics (tutorial, BSc), Department of Economics, 2013/14
-
 
 **University of Mannheim**
 
