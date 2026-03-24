@@ -4,189 +4,100 @@ output:
   html_document:
     fig_width: 1
 ---
-<br>
 
 [Download CV as pdf.](files/CV_KULD_Lukas.pdf)
 
-<br>
+<style>
+.col2 {
+  columns: 2 200px;
+  -webkit-columns: 2 200px;
+  -moz-columns: 2 200px;
+}
+</style>
 
 ### Employment
-   <br>
-   
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-</style>
- 
+
 <div class="col2">
 **University of Limerick**
 
-  - Lecturer, Department of Economics, Kemmy Business School  
-  
-  <br>
-  
-  - Since 2022
-  - Limerick, Ireland
+- Lecturer, Department of Economics, Kemmy Business School
+- Since 2022
+- Limerick, Ireland
 </div>
-
-
 
 <div class="col2">
-
-
 **TU Dortmund**
 
- - Postdoctoral Researcher, Chair of Urban, Regional, and International Economics,
-Department of Economics
-
-<br>
-
-  - 2017-2021
-  -  Dortmund, Germany
+- Postdoctoral Researcher, Chair of Urban, Regional, and International Economics, Department of Economics
+- 2017--2021
+- Dortmund, Germany
 </div>
 
-<br>
-
-
 ### Education
-   <br>
 
 <div class="col2">
 **Trinity College Dublin**
 
- - Ph.D. Economics
- - Dissertation Topic: “Research collaboration and dissemination in economics”
-  - Advisor: John O’Hagan
-  - Committee: Christian Fons-Rosen, Carol Newman
-  
-<br>
-
-  - 2013 - 2018
-  - Dublin, Ireland
-  
-  
-<br>
-<br>
-<br>
- </div>
- 
-<br>
+- Ph.D. Economics
+- Dissertation: "Research collaboration and dissemination in economics"
+- Advisor: John O'Hagan
+- Committee: Christian Fons-Rosen, Carol Newman
+- 2013--2018
+- Dublin, Ireland
+</div>
 
 <div class="col2">
-
 **ENSAE Paris**
 
-  - Statistician-Economist (∼ M.Sc. grande école program)
-
-
-<br>
-
-<br>
-
-  - 2010 - 2013
-  - Paris, France
-
+- Statistician-Economist (~M.Sc. grande école program)
+- 2010--2013
+- Paris, France
 </div>
 
-<br>
 <div class="col2">
-
 **University of Mannheim**
 
-  - M.Sc. Economics
-  - B.Sc. Economics (Minor in Mathematics)
-
-<br>
-
-<br>
-
-  - 2011 - 2013
-  - 2008 - 2011
-  - Mannheim, Germany
-
+- M.Sc. Economics
+- B.Sc. Economics (Minor in Mathematics)
+- 2011--2013, 2008--2011
+- Mannheim, Germany
 </div>
 
-   <br>
-   
-### Honors & Awards
-   <br>
+### Honours & Awards
 
 <div class="col2">
 **Government of Ireland Postgraduate Scholarship**
-   
-   - Irish Research Council
-   
-   <br>
-   
-   - 2014-2017
-  
+
+- Irish Research Council
+- 2014--2017
 </div>
 
 <div class="col2">
 **Department Scholarship**
-   
-   - Department of Economics, Trinity College Dublin
-   
-   <br>
-   
-   - 2013-2017
-  
+
+- Department of Economics, Trinity College Dublin
+- 2013--2017
 </div>
 
- <div class="col2">
+<div class="col2">
 **ENSAE-Mannheim double degree scholarship**
-   
-   - Franco-German University (UFA-DFH)
-   
-   <br>
-   
-   - 2010 - 2013
-  
+
+- Franco-German University (UFA-DFH)
+- 2010--2013
 </div>
 
-   <br>
-   
-### Computer Skills & Languages
-   <br>
+### Computer skills & languages
 
-**Statistics** 
- - R (fluent), working knowledge of Stata, SAS, Matlab, Python
-  
-**Languages** 
-  - English (fluent), French (proficient), German (native)
+**Statistics:** R (fluent), working knowledge of Stata, SAS, Matlab, Python
 
+**Languages:** English (fluent), French (proficient), German (native)
 
-<br>
-     
-### Conference presentations 
-   <br>
+### Conference presentations
 
-  - PUCK Bilbao (2014), EWACE Vienna (2015), ACEI Valladolid (2016), RGS Dortmund (2017), JME Le Mans (2017), EEA-ESEM Cologne (2018), EWACE Copenhagen (2019), ACEI Lille (2021)
+PUCK Bilbao (2014), EWACE Vienna (2015), ACEI Valladolid (2016), RGS Dortmund (2017), JME Le Mans (2017), EEA-ESEM Cologne (2018), EWACE Copenhagen (2019), ACEI Lille (2021)
 
+### References
 
-   <br>
-   
-### References 
-   <br>
-
-- Christiane Hellmanzik, Professor of Urban, Regional and International Economics
-
-  Technical University of Dortmund, Germany
-  
-
-- John O’Hagan, Professor of Economics, Emeritus
-
-  Department of Economics, Trinity College, Ireland
-  
-
-- Carol Newman, Professor in Economics
-
-  Department of Economics, Trinity College, Ireland
-  
-
-
-
-
+- Christiane Hellmanzik, Professor of Urban, Regional and International Economics, Technical University of Dortmund, Germany
+- John O'Hagan, Professor of Economics (Emeritus), Department of Economics, Trinity College Dublin, Ireland
+- Carol Newman, Professor in Economics, Department of Economics, Trinity College Dublin, Ireland
