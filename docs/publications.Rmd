@@ -9,11 +9,17 @@ output:
 
 ### Peer-reviewed journal articles
 
+- [Literary networks: Agglomeration, peers, and productivity],
+_Journal of Cultural Economics_ (2026), with Sara Mitchell. Full data and code available at https://github.com/lkuld/Mitchell-Kuld-Literary-Networks-JCE
+
+- [Accountability in the delivery of guaranteed employment through MGNREGA in rural India],
+_Review of Development Economics_ (2026), with Tara Bedi. 
+
 - [Manhattan Transfer: Heterogeneous productivity effects of agglomeration in American authorship],
 _Regional Science and Urban Economics_ (2025), with Sara Mitchell and Christiane Hellmanzik. 
 
 - [Market structure and creative cluster formation: The origins of urban clusters in German literature, 1700-1932](files/MarketStructureAAM.pdf),
-_European Review of Economic History_ (2023), with Sara Mitchell. Full data and code: https://github.com/lkuld/KuldMitchellEREH
+_European Review of Economic History_ (2023), with Sara Mitchell. Full data and code available at https://github.com/lkuld/KuldMitchellEREH
 
 - [No place like home: Geography and culture in the dissemination of economic research articles](files/NoPlaceLikeHomeAAM.pdf),
 _Empirical Economics_ (2020), with Christiane Hellmanzik
