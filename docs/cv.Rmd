@@ -8,83 +8,57 @@ output:
 [Download CV as pdf.](files/CV_KULD_Lukas.pdf)
 
 <style>
-.col2 {
-  columns: 2 200px;
-  -webkit-columns: 2 200px;
-  -moz-columns: 2 200px;
-}
+.cv-table { width: 100%; border: none; border-collapse: collapse; margin-bottom: 1em; }
+.cv-table td { vertical-align: top; border: none; padding: 2px 8px 2px 0; }
+.cv-table td:first-child { width: 70%; }
+.cv-table td:last-child { width: 30%; white-space: nowrap; text-align: right; }
 </style>
 
 ### Employment
 
-<div class="col2">
-**University of Limerick**
+<table class="cv-table"><tr>
+<td>**University of Limerick**<br>Lecturer, Department of Economics, Kemmy Business School<br>Limerick, Ireland</td>
+<td>Since 2022</td>
+</tr></table>
 
-- Lecturer, Department of Economics, Kemmy Business School
-- Since 2022
-- Limerick, Ireland
-</div>
-
-<div class="col2">
-**TU Dortmund**
-
-- Postdoctoral Researcher, Chair of Urban, Regional, and International Economics, Department of Economics
-- 2017--2021
-- Dortmund, Germany
-</div>
+<table class="cv-table"><tr>
+<td>**TU Dortmund**<br>Postdoctoral Researcher, Chair of Urban, Regional, and International Economics, Department of Economics<br>Dortmund, Germany</td>
+<td>2017--2021</td>
+</tr></table>
 
 ### Education
 
-<div class="col2">
-**Trinity College Dublin**
+<table class="cv-table"><tr>
+<td>**Trinity College Dublin**<br>Ph.D. Economics<br>Dissertation: "Research collaboration and dissemination in economics"<br>Advisor: John O'Hagan; Committee: Christian Fons-Rosen, Carol Newman<br>Dublin, Ireland</td>
+<td>2013--2018</td>
+</tr></table>
 
-- Ph.D. Economics
-- Dissertation: "Research collaboration and dissemination in economics"
-- Advisor: John O'Hagan
-- Committee: Christian Fons-Rosen, Carol Newman
-- 2013--2018
-- Dublin, Ireland
-</div>
+<table class="cv-table"><tr>
+<td>**ENSAE Paris**<br>Statistician-Economist (~M.Sc. grande école program)<br>Paris, France</td>
+<td>2010--2013</td>
+</tr></table>
 
-<div class="col2">
-**ENSAE Paris**
-
-- Statistician-Economist (~M.Sc. grande école program)
-- 2010--2013
-- Paris, France
-</div>
-
-<div class="col2">
-**University of Mannheim**
-
-- M.Sc. Economics
-- B.Sc. Economics (Minor in Mathematics)
-- 2011--2013, 2008--2011
-- Mannheim, Germany
-</div>
+<table class="cv-table"><tr>
+<td>**University of Mannheim**<br>M.Sc. Economics<br>B.Sc. Economics (Minor in Mathematics)<br>Mannheim, Germany</td>
+<td>2011--2013<br>2008--2011</td>
+</tr></table>
 
 ### Honours & Awards
 
-<div class="col2">
-**Government of Ireland Postgraduate Scholarship**
+<table class="cv-table"><tr>
+<td>**Government of Ireland Postgraduate Scholarship**<br>Irish Research Council</td>
+<td>2014--2017</td>
+</tr></table>
 
-- Irish Research Council
-- 2014--2017
-</div>
+<table class="cv-table"><tr>
+<td>**Department Scholarship**<br>Department of Economics, Trinity College Dublin</td>
+<td>2013--2017</td>
+</tr></table>
 
-<div class="col2">
-**Department Scholarship**
-
-- Department of Economics, Trinity College Dublin
-- 2013--2017
-</div>
-
-<div class="col2">
-**ENSAE-Mannheim double degree scholarship**
-
-- Franco-German University (UFA-DFH)
-- 2010--2013
-</div>
+<table class="cv-table"><tr>
+<td>**ENSAE-Mannheim double degree scholarship**<br>Franco-German University (UFA-DFH)</td>
+<td>2010--2013</td>
+</tr></table>
 
 ### Computer skills & languages
 
