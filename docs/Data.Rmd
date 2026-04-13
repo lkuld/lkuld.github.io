@@ -7,3 +7,5 @@ You can find yearly biographical data on 153 German authors with description at 
 
 
 Older version at: https://www.tcd.ie/triss/assets/PDFs/wps/TRiSS-WPS-03-2019-Data.csv
+
+Yearly biographical data on authors in the UK and Ireland is available at https://github.com/lkuld/Mitchell-Kuld-Literary-Networks-JCE.
