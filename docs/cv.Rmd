@@ -34,7 +34,7 @@ output:
 </tr></table>
 
 <table class="cv-table"><tr>
-<td>**ENSAE Paris**<br>Statistician-Economist (~M.Sc. grande école program)<br>Paris, France</td>
+<td>**ENSAE Paris**<br>Statistician-Economist (~M.Sc. grande école programme)<br>Paris, France</td>
 <td>2010--2013</td>
 </tr></table>
 
@@ -68,7 +68,7 @@ output:
 
 ### Conference presentations
 
-PUCK Bilbao (2014), EWACE Vienna (2015), ACEI Valladolid (2016), RGS Dortmund (2017), JME Le Mans (2017), EEA-ESEM Cologne (2018), EWACE Copenhagen (2019), ACEI Lille (2021)
+PUCK Bilbao (2014), EWACE Vienna (2015), ACEI Valladolid (2016), RGS Dortmund (2017), JME Le Mans (2017), EEA-ESEM Cologne (2018), EWACE Copenhagen (2019), ACEI Lille (2021), Uni Limerick (department seminar) 2022, IEA Limerick 2022, Uni Portsmouth (department seminar) 2022, EWACE Turin 2022, Uni Maynooth (department seminar) 2023, ACEI Bloomington 2023, RSA Florence 2024, PARTNER Strasbourg 2025, IEA Thurles (2026)
 
 ### References
 
